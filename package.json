@@ -1,0 +1,17 @@
+{
+  "name": "project-pro",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3022",
+    "build": "next build",
+    "start": "next start -p 3022"
+  },
+  "dependencies": {
+    "next": "14.2.3",
+    "@supabase/supabase-js": "^2.39.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-hot-toast": "^2.4.1"
+  }
+}
